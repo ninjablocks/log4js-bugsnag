@@ -1,0 +1,33 @@
+{
+  "name": "log4js-bugsnag",
+  "version": "0.0.0",
+  "description": "bugsnag.com appender for log4js",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ninjablocks/log4js-bugsnag.git"
+  },
+  "keywords": [
+    "log4js",
+    "bugsnag",
+    "errors"
+  ],
+  "author": "Mark Wolfe <mark@wolfe.id.au>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wolfeidau/log4js-bugsnag/issues"
+  },
+  "homepage": "https://github.com/wolfeidau/log4js-bugsnag",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.18.2",
+    "sandboxed-module": "^0.3.0"
+  },
+  "dependencies": {
+    "log4js": "^0.6.14",
+    "bugsnag": "^1.3.0"
+  }
+}
