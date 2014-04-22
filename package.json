@@ -1,6 +1,6 @@
 {
   "name": "log4js-bugsnag",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "bugsnag.com appender for log4js",
   "main": "lib/index.js",
   "scripts": {
